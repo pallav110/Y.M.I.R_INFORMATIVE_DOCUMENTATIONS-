@@ -2,7 +2,7 @@
 
 ## What is Y.M.I.R?
 
-**Y.M.I.R** stands for **"Your Mental Intelligence Response"** - an advanced AI-powered platform that bridges the gap between technology and mental health care through emotion detection and therapeutic intervention.
+**Y.M.I.R** stands for **"Yielding Melodies For Internal Restoration"** - an advanced AI-powered platform that bridges the gap between technology and mental health care through emotion detection and therapeutic intervention.
 
 ## Project Vision
 
